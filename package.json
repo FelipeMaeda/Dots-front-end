@@ -1,0 +1,25 @@
+{
+  "name": "Dots-front-end",
+  "version": "1.0.0",
+  "description": "Dots Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMaeda/Dots-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeMaeda/Dots-front-end/issues"
+  },
+  "homepage": "https://github.com/FelipeMaeda/Dots-front-end#readme",
+  "dependencies": {
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
